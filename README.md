@@ -39,28 +39,22 @@ A set of lesson for new pandas users: https://bitbucket.org/hrojas/learn-pandas
 ### Practical data analysis with Python
 This <a href="https://wavedatalab.github.io/datawithpython">guide</a> is an introduction to the data analysis process using the Python data ecosystem and an interesting open dataset. There are four sections covering selected topics as <a href="https://wavedatalab.github.io/datawithpython/munge.html">munging data</a>, <a href="https://wavedatalab.github.io/datawithpython/aggregate.html">aggregating data</a>, <a href="https://wavedatalab.github.io/datawithpython/visualize.html">visualizing data</a> and <a href="https://wavedatalab.github.io/datawithpython/timeseries.html">time series</a>.
 
-Exercises for new users
-Practice your skills with real data sets and exercises. For more resources, please visit the main repository.
+### Exercises for new users
+Practice your skills with real data sets and exercises. For more resources, please visit the main <a href="https://github.com/guipsamora/pandas_exercises">repository.</a>
 
-Modern pandas
-Tutorial series written in 2016 by Tom Augspurger. The source may be found in the GitHub repository TomAugspurger/effective-pandas.
+### Modern pandas
+Tutorial series written in 2016 by <a href="https://github.com/TomAugspurger">Tom Augspurger</a>. The source may be found in the GitHub repository <a href="https://github.com/TomAugspurger/effective-pandas">TomAugspurger/effective-pandas.</a>
 
-Modern Pandas
+* <a href="https://tomaugspurger.github.io/modern-1-intro.html">Modern Pandas</a>
+* <a href="https://tomaugspurger.github.io/method-chaining.html">Method Chaining</a>
+* <a href="https://tomaugspurger.github.io/modern-3-indexes.html">Indexes</a>
+* <a href="https://tomaugspurger.github.io/modern-3-indexes.html">Performance</a>
+* <a href="https://tomaugspurger.github.io/modern-5-tidy.html">Tidy Data</a>
+* <a href="https://tomaugspurger.github.io/modern-6-visualization.html">Visualization</a>
+* <a href="https://tomaugspurger.github.io/modern-6-visualization.html">Timeseries</a>
 
-Method Chaining
-
-Indexes
-
-Performance
-
-Tidy Data
-
-Visualization
-
-Timeseries
-
-Excel charts with pandas, vincent and xlsxwriter
-Using Pandas and XlsxWriter to create Excel charts
+### Excel charts with pandas, vincent and xlsxwriter
+<a href="https://pandas-xlsxwriter-charts.readthedocs.io/">Using Pandas and XlsxWriter to create Excel charts</a>
 
 Video tutorials
 Pandas From The Ground Up (2015) (2:24) GitHub repo
