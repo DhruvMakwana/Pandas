@@ -25,3 +25,67 @@ pandas does not implement significant modeling functionality outside of linear a
 *	Highly optimized for performance, with critical code paths written in Cythonor C.
 *	Python with pandas is in use in a wide variety of academic and commercialdomains, including Finance, Neuroscience, Economics, Statistics, Advertising, Web Analytics, and more.
 </br></br></br>For Visual representation of pandas visit here(https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
+
+## Reference:
+### Community tutorials
+This is a guide to many pandas tutorials by the community, geared mainly for new users.
+
+### pandas cookbook by Julia Evans
+The goal of this 2015 cookbook (by <a href="https://jvns.ca/">Julia Evans</a>) is to give you some concrete examples for getting started with pandas. These are examples with real-world data, and all the bugs and weirdness that entails. For the table of contents, see the <a href="https://github.com/jvns/pandas-cookbook">pandas-cookbook GitHub repository</a>.
+
+### Learn pandas by Hernan Rojas
+A set of lesson for new pandas users: https://bitbucket.org/hrojas/learn-pandas
+
+### Practical data analysis with Python
+This <a href="https://wavedatalab.github.io/datawithpython">guide</a> is an introduction to the data analysis process using the Python data ecosystem and an interesting open dataset. There are four sections covering selected topics as <a href="https://wavedatalab.github.io/datawithpython/munge.html">munging data</a>, <a href="https://wavedatalab.github.io/datawithpython/aggregate.html">aggregating data</a>, <a href="https://wavedatalab.github.io/datawithpython/visualize.html">visualizing data</a> and <a href="https://wavedatalab.github.io/datawithpython/timeseries.html">time series</a>.
+
+Exercises for new users
+Practice your skills with real data sets and exercises. For more resources, please visit the main repository.
+
+Modern pandas
+Tutorial series written in 2016 by Tom Augspurger. The source may be found in the GitHub repository TomAugspurger/effective-pandas.
+
+Modern Pandas
+
+Method Chaining
+
+Indexes
+
+Performance
+
+Tidy Data
+
+Visualization
+
+Timeseries
+
+Excel charts with pandas, vincent and xlsxwriter
+Using Pandas and XlsxWriter to create Excel charts
+
+Video tutorials
+Pandas From The Ground Up (2015) (2:24) GitHub repo
+
+Introduction Into Pandas (2016) (1:28) GitHub repo
+
+Pandas: .head() to .tail() (2016) (1:26) GitHub repo
+
+Data analysis in Python with pandas (2016-2018) GitHub repo and Jupyter Notebook
+
+Best practices with pandas (2018) GitHub repo and Jupyter Notebook
+
+Various tutorials
+Wes McKinney’s (pandas BDFL) blog
+
+Statistical analysis made easy in Python with SciPy and pandas DataFrames, by Randal Olson
+
+Statistical Data Analysis in Python, tutorial videos, by Christopher Fonnesbeck from SciPy 2013
+
+Financial analysis in Python, by Thomas Wiecki
+
+Intro to pandas data structures, by Greg Reda
+
+Pandas and Python: Top 10, by Manish Amde
+
+Pandas DataFrames Tutorial, by Karlijn Willems
+
+A concise tutorial with real life examples
