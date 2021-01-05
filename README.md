@@ -57,18 +57,18 @@ Tutorial series written in 2016 by <a href="https://github.com/TomAugspurger">To
 <a href="https://pandas-xlsxwriter-charts.readthedocs.io/">Using Pandas and XlsxWriter to create Excel charts</a>
 
 ### Video tutorials
-<a href="https://www.youtube.com/watch?v=5JnMutdy6Fw">Pandas From The Ground Up</a> (2015) (2:24) <a href="https://github.com/brandon-rhodes/pycon-pandas-tutorial">GitHub repo</a>
-<a href="https://www.youtube.com/watch?v=-NR-ynQg0YM">Introduction Into Pandas</a> (2016) (1:28) <a href="https://github.com/chendaniely/2016-pydata-carolinas-pandas">GitHub repo</a>
-<a href="https://www.youtube.com/watch?v=7vuO9QXDN50">Pandas: .head() to .tail()</a> (2016) (1:26) <a href="https://github.com/TomAugspurger/pydata-chi-h2t">GitHub repo</a>
-<a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y">Data analysis in Python with pandas</a> (2016-2018) <a href="https://github.com/justmarkham/pandas-videos">GitHub repo</a> and <a href="https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb">Jupyter Notebook</a>
-<a href="https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6">Best practices with pandas</a> (2018) <a href="https://github.com/justmarkham/pycon-2018-tutorial">GitHub repo</a> and <a href="https://nbviewer.jupyter.org/github/justmarkham/pycon-2018-tutorial/blob/master/tutorial.ipynb">Jupyter Notebook</a>
+<a href="https://www.youtube.com/watch?v=5JnMutdy6Fw">Pandas From The Ground Up</a> (2015) (2:24) <a href="https://github.com/brandon-rhodes/pycon-pandas-tutorial">GitHub repo</a><br>
+<a href="https://www.youtube.com/watch?v=-NR-ynQg0YM">Introduction Into Pandas</a> (2016) (1:28) <a href="https://github.com/chendaniely/2016-pydata-carolinas-pandas">GitHub repo</a><br>
+<a href="https://www.youtube.com/watch?v=7vuO9QXDN50">Pandas: .head() to .tail()</a> (2016) (1:26) <a href="https://github.com/TomAugspurger/pydata-chi-h2t">GitHub repo</a><br>
+<a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y">Data analysis in Python with pandas</a> (2016-2018) <a href="https://github.com/justmarkham/pandas-videos">GitHub repo</a> and <a href="https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb">Jupyter Notebook</a><br>
+<a href="https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6">Best practices with pandas</a> (2018) <a href="https://github.com/justmarkham/pycon-2018-tutorial">GitHub repo</a> and <a href="https://nbviewer.jupyter.org/github/justmarkham/pycon-2018-tutorial/blob/master/tutorial.ipynb">Jupyter Notebook</a><br>
 
 ### Various tutorials
-<a href="https://wesmckinney.com/archives.html">Wes McKinney’s (pandas BDFL) blog</a>
-<a href="http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/">Statistical analysis made easy in Python with SciPy and pandas DataFrames, by Randal Olson</a>
-<a href="https://conference.scipy.org/scipy2013/tutorial_detail.php?id=109">Statistical Data Analysis in Python, tutorial videos, by Christopher Fonnesbeck from SciPy 2013</a>
-<a href="https://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb">Financial analysis in Python, by Thomas Wiecki</a>
-<a href="http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/">Intro to pandas data structures, by Greg Reda</a>
-<a href="https://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/">Pandas and Python: Top 10, by Manish Amde</a>
-<a href="https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python">Pandas DataFrames Tutorial, by Karlijn Willems</a>
-<a href="https://tutswiki.com/pandas-cookbook/chapter1/">A concise tutorial with real life examples</a>
+<a href="https://wesmckinney.com/archives.html">Wes McKinney’s (pandas BDFL) blog</a><br>
+<a href="http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/">Statistical analysis made easy in Python with SciPy and pandas DataFrames, by Randal Olson</a><br>
+<a href="https://conference.scipy.org/scipy2013/tutorial_detail.php?id=109">Statistical Data Analysis in Python, tutorial videos, by Christopher Fonnesbeck from SciPy 2013</a><br>
+<a href="https://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb">Financial analysis in Python, by Thomas Wiecki</a><br>
+<a href="http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/">Intro to pandas data structures, by Greg Reda</a><br>
+<a href="https://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/">Pandas and Python: Top 10, by Manish Amde</a><br>
+<a href="https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python">Pandas DataFrames Tutorial, by Karlijn Willems</a><br>
+<a href="https://tutswiki.com/pandas-cookbook/chapter1/">A concise tutorial with real life examples</a><br>
